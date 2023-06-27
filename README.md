@@ -31,4 +31,7 @@ https://www.figma.com/file/8ml8qeQpXv2vmgATINp71k/Electroporation-V2?type=design
 
 https://www.figma.com/proto/8ml8qeQpXv2vmgATINp71k/Electroporation-V2?page-id=0%3A1&type=design&node-id=8-143&viewport=-1903%2C-477%2C0.81&scaling=scale-down&starting-point-node-id=8%3A168&mode=design
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Osciloscopio:
 
+Se encuentra una aplicación realizada en python para extraer datos del osciloscopio RIGOL DSO138
