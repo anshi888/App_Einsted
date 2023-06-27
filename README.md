@@ -21,7 +21,7 @@ npm start
 -Sugerencias: Tener instalado node js ( https://nodejs.org/es ) y electron js (https://www.electronjs.org/es/) 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Diseño de la versión 2.0 :
+#Diseño de la versión 2.0 :
 
 Actualizaciones agregar se encuentra en la carpeta desing
 
@@ -31,12 +31,12 @@ https://www.figma.com/file/8ml8qeQpXv2vmgATINp71k/Electroporation-V2?type=design
 
 https://www.figma.com/proto/8ml8qeQpXv2vmgATINp71k/Electroporation-V2?page-id=0%3A1&type=design&node-id=1-4&viewport=952%2C265%2C0.23&scaling=scale-down&starting-point-node-id=1%3A4&mode=design
 
-Diagrama de flujo:
+#Diagrama de flujo:
 
 https://www.figma.com/file/raj7aIOXpUMuRkGqP5z59x/Diagrama-de-flujos-Electroporador-Nano-Pulso?type=whiteboard&node-id=0%3A1&t=CD8iPQ1XYHl9wc4d-1
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Osciloscopio:
+#Osciloscopio:
 
 Se encuentra una aplicación realizada en python para extraer datos del osciloscopio RIGOL DSO138
