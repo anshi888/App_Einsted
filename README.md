@@ -20,7 +20,7 @@ npm start
 
 Sugerencias: Tener instalado node js ( https://nodejs.org/es ) y electron js (https://www.electronjs.org/es/) 
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Diseño de la versión 2.0 :
 
 Actualizaciones agregar se encuentra en la carpeta desing
