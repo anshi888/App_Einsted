@@ -2,7 +2,7 @@
 
 - IDE utilizado Visual Code
 
-En la carpeta denominada "Versión 1.1", se encuentra el contenido correspondiente al software de Einsted, diseñado para el controlador del electroporador Nanopulso y desarrollado en el framework Electron JS.
+En la carpeta denominada "Versión 1.1", se encuentra el contenido correspondiente al software de Einsted, diseñado para el controlador del electroporador Nanopulso y desarrollado en el framework Electron JS .
 
 La carpeta "image" contiene las imágenes utilizadas en el diseño del software.
 
@@ -17,6 +17,8 @@ npm install
 run:
 
 npm start
+
+Sugerencias: Tener instalado node js ( https://nodejs.org/es ) y electron js (https://www.electronjs.org/es/) 
 
 
 Diseño de la versión 2.0 :
