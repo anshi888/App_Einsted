@@ -19,6 +19,7 @@ npm install
 npm start
 
 -Sugerencias: Tener instalado node js ( https://nodejs.org/es ) y electron js (https://www.electronjs.org/es/) 
+sugerencias
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Diseño de la versión 2.0 :
