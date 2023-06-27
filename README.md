@@ -40,4 +40,6 @@ https://www.figma.com/file/raj7aIOXpUMuRkGqP5z59x/Diagrama-de-flujos-Electropora
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #Osciloscopio:
 
-Se encuentra una aplicación realizada en python para extraer datos del osciloscopio RIGOL DSO138
+Se encuentra una aplicación realizada en python para extraer datos del osciloscopio RIGOL DSO138. 
+
+Sugerencia: instalar la libreria pyvisa
