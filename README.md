@@ -25,7 +25,7 @@ Diseño de la versión 2.0 :
 
 Actualizaciones agregar se encuentra en la carpeta desing
 
-figma se encuentra realizando actualizaciónes
+figma (finalizado):
 
 https://www.figma.com/file/8ml8qeQpXv2vmgATINp71k/Electroporation-V2?type=design&node-id=0%3A1&mode=design&t=OvASemqDTbMfxPL3-1
 
