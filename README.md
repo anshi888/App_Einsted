@@ -1,6 +1,8 @@
 # App_Einsted
 
-IDE utilizado Visual Code
+IDE utilizado Visual Code 
+
+pantalla 1920x1080 "
 
 En la carpeta denominada "Versión 1.1", se encuentra el contenido correspondiente al software de Einsted, diseñado para el controlador del electroporador Nanopulso y desarrollado en el framework Electron JS .
 
