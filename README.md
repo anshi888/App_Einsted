@@ -15,3 +15,10 @@ npm install
 run:
 
 npm start
+
+
+Diseño de la versión 2.0 :
+
+Actualizaciones agregar
+
+
