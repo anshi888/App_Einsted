@@ -22,7 +22,7 @@ npm start
 
 -Tener instalado node js ( https://nodejs.org/es ) y electron js (https://www.electronjs.org/es/) 
 
--SugerenciasVSC.txt 
+-extensiones VCode.txt 
 
 |pantalla 1920x1080 "
 
